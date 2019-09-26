@@ -17,15 +17,15 @@ Icon | Name
 ![alt text](img/kilometre_0_thumbnail.jpg "Kilometre 0") | Kilometre 0
 ![alt text](img/feed_zone_thumbnail.jpg "Feed Zone") | Feed Zone
 ![alt text](img/feed_zone_water_only_thumbnail.jpg "Feed Zone - Water Only") | Feed Zone - Water Only
-- | Split Time
-- | Sprint
-- | Climb - Hors Category
-- | Climb - Category 1
-- | Climb - Category 2
-- | Climb - Category 3
-- | Climb - Category 4
-- | Tech Zone
-- | Photo Zone
+... | Split Time
+... | Sprint
+... | Climb - Hors Category
+... | Climb - Category 1
+... | Climb - Category 2
+... | Climb - Category 3
+... | Climb - Category 4
+... | Tech Zone
+... | Photo Zone
 ![alt text](img/medical_thumbnail.jpg "Medical") | Medical
 
 ## Installation
