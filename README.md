@@ -5,7 +5,7 @@ Tour de France stage map style icons in Scalable Vector Format for use in GIS ap
 A number of icons from Cross Country World Cup mountain bike events have also been added.
 
 1. [Icons](#icons)
-1. [Installation](#installation)
+1. [Installation](#installation)  
   i. [QGIS 3.x](#qgis-3x)
 
 ## Icons
